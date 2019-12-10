@@ -26,7 +26,7 @@ Please note this is preliminary and likely to change!
 |             |  Track A2: TBD |
 |             |  Track A3: TBD |
 | 4:30 - 5:30 | Report/Discussion from breakout session A |
-| 6:30 - 9:30 | Reception dinner & Networking (Tentative: [Prospect House](https://www.princeton.edu/prospecthouse/index.html)) |
+| 5:45 - 7:30 | Networking Reception (Tentative: [Prospect House](https://www.princeton.edu/prospecthouse/index.html)) |
 
 <br>
 
@@ -49,4 +49,4 @@ Please note this is preliminary and likely to change!
 |             |  Track C3: TBD |
 | 4:30 - 5:15 | Report/Discussion from breakout session C |
 | 5:15 - 5:30 | Participant Survey |
-| 6:30 - 9:30 | Workshop dinner (TBD) |
+| 5:45 - 8:00 | Workshop dinner (TBD) |
