@@ -38,7 +38,7 @@ Read more about the workshop goals [here]({{ site.baseurl }}/about)
 | Time | Session Title |
 | ------ | ----- |
 | 7:30 - 8:45 |  Breakfast |
-| 8:45 - 9:00 | Temperature Check |
+| 8:45 - 9:00 | Temperature Check & Group Photo |
 | 9:00 - 11:30  | Breakout Session B (including 15 min break) |
 |             |  Track B1: TBD |
 |             |  Track B2: TBD |
