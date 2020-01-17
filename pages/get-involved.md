@@ -4,9 +4,6 @@ title: Get Involved
 permalink: /get-involved/
 ---
 
-Information for how to participate in person can be found on the
-[application page]({{ site.baseurl }}/application).
-
 We understand that not everyone in the community will be able to attend the
 workshop in person. While we will not be able to offer a remote attendance
 option, we do anticipate being able to offer some degree of asynchronous
