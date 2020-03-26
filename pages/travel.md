@@ -15,7 +15,7 @@ visiting Princeton.
 Please send any questions about travel to the workshop to Andrea Rubinstein.
 
 ## Travel Reimbursement
-All participant costs will be covered by the grant. However, please do not make travel arrangements yet. Details as to how to proceed will be sent to all participants in early February.  
+All participant costs will be covered by the grant. However, please do not make travel arrangements yet. Details as to how to proceed will be sent to all participants before the workshop.  
 
 
 ## Travel by Train
