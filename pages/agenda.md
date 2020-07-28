@@ -10,7 +10,7 @@ Please note this is preliminary and likely to change!
 
 Read more about the workshop goals [here]({{ site.baseurl }}/about)
 
-## Day 1 - Tuesday, October 27
+## Day 1 - Tuesday, October 5
 
 
 | Time | Session Title |
@@ -33,7 +33,7 @@ Read more about the workshop goals [here]({{ site.baseurl }}/about)
 
 <br>
 
-## Day 2 - Wednesday, October 28
+## Day 2 - Wednesday, October 6
 
 | Time | Session Title |
 | ------ | ----- |
