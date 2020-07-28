@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Venue
-subtitle: Fall 2020
+subtitle: Fall 2021
 permalink: /venue/
 ---
 
