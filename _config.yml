@@ -5,7 +5,7 @@
 # DO NOT CHANGE THE LINE NUMBERS HERE without changing .circleci/circle_urls.sh
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://us-rse.org"
-baseurl: "/2020-april-workshop"  # for testing, also check .circleci/circle_urls.sh
+baseurl: "/first-community-workshop"  # for testing, also check .circleci/circle_urls.sh
 title-img: /assets/img/logo_600px.png  # baseurl will be prepended
 twitter-img: /assets/img/logo_600px.png  # url + baseurl will be prepended
 
@@ -16,10 +16,10 @@ twitter-img: /assets/img/logo_600px.png  # url + baseurl will be prepended
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: US-RSE April 2020 Workshop
+title: US-RSE October 2021 Workshop
 
 # Short description of your site
-description: April 2020 Community Buiding Workshop
+description: October 2021 Community Buiding Workshop
 
 # --- Navigation bar options --- #
 
